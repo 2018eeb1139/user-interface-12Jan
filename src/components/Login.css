@@ -1,0 +1,15 @@
+.image{
+    background: url(../media/menu-background2.png) no-repeat center fixed;
+    height:100vh;
+    margin-top:-52px;
+    display:flex;
+    align-items:center;
+}
+
+.image::-webkit-scrollbar{
+    display: none;
+}
+
+.dont{
+    font-size: 12px;
+}

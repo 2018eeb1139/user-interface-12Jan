@@ -1,0 +1,93 @@
+.pMT{
+    background-color: rgba(164,164,166,0.26);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.pMT__timer>div{
+    right: 0;
+    position: absolute !important;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.timer{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.value{
+    padding-left: 10px;
+}
+
+.pMT__div1{
+    display: flex;
+    align-items: center;
+}
+
+.pMT__entityInput{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.pMT__assignMenu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.pMT__transferAmount{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.pMT__transferAmount>h5{
+    padding-right: 10px;
+}
+
+.pMT__duration{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.pMT__transferButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pMT__transferButton>button:hover{
+    background-color: #357339;
+}
+
+.pMT__tranferAmountInput{
+    margin-left: 3px;
+}
+
+.pMT__tranferAmountInput>.MuiInputBase-input{
+    padding-left: 10px;
+}
+
+.prompt>.MuiBox-root>div{
+    margin: 0 auto;
+}
+
+.prompt__content1>h5{
+    color: #357339;
+}
+
+.prompt__content2>h5{
+    color: blue
+}

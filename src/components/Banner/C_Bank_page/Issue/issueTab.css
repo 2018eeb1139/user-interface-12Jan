@@ -1,0 +1,65 @@
+.entityInput{
+    float: left;
+    margin-top:1%; 
+    /* border-style: solid; */
+    margin-right:50px;
+}
+
+.totalTransfer{
+    /* border-style: solid; */
+    /* width: 40%; */
+    /* margin-left: 50%; */
+    margin-top: 10px;
+    
+}  
+
+.transfer{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-top: 30px;
+}
+
+.EntityDetail{
+    /*border-style: solid;*/
+    padding-left: 70px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.assignMenu{
+    /* border-style: solid; */
+    width: 80%;
+    padding-top: 10px;
+    padding-left: 2%;
+    margin-left: 5%; 
+}
+
+.transferAmount{
+    display: flex;
+    /* border-style: solid; */
+    /* margin-left: 20%; */
+    padding-top: 15px;
+    /* width: 50%; */
+    justify-content: center;
+}
+
+.TransferMenu{
+    background-color: rgba(164, 164, 167, 0.26);
+    padding-top: 2px;
+    padding-left: 2%;
+    padding-bottom: 30px;
+    width: 80%;
+    margin-left:8%;
+    height: 300px;
+    border-radius: 10px;
+    /* overflow-y: scroll; */
+    margin-top: 3%;
+}
+
+.prompt{
+    text-align: center;
+}
+
+.transferHeight{
+    height: 200px;
+}

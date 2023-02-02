@@ -1,0 +1,102 @@
+.banner__1{
+    box-shadow: inset 0 0 59px #3ab0ff;
+    border-bottom: 2px solid lightgray;
+}
+
+.banner {
+    display: flex;
+    justify-content: start;
+    color: black;
+    width: 100%;
+    text-align: center;
+}
+
+.banner>img{
+    margin-left: 3%;
+    margin-top: 0.2%;
+    height: 75px;
+    object-fit: contain;
+}
+
+.centralbank {
+    margin-left: 1.5%;
+    color: #809bce;
+    font-size: 24px;
+    font-weight: 500;
+    width: 50%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.bank1 {
+    margin-left: 4.5%;
+    color:#6F965A;
+    font-size: 24px;
+    font-weight: 500;
+    width: 50%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.bank2 {
+    margin-left: 4.5%;
+    color: #b8e0d2;
+    font-size: 24px;
+    font-weight: 500;
+    width: 50%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.nbfc1 {
+    margin-left: 1.5%;
+    color: #d6eadf;
+    font-size: 24px;
+    font-weight: 500;
+    width: 50%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.regulator {
+    margin-left: 2.5%;
+    color: #CC0003;
+    font-size: 24px;
+    font-weight: 500;
+    width: 50%;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+.center {
+    text-align: center;
+    /* margin-left: 25px; */
+}
+
+.title {
+    margin-top: 2%;
+    margin-left: 27%;
+    font-weight: 600;
+    font-size: 28px;
+    /* margin-left: 200px; */
+    /* border-style: solid; */
+    text-align: center;
+    /* margin-right: 100px; */
+    }
+
+
+.user {
+    /* border-style: solid; */
+    height: 25%;
+    width: 24%;
+    text-align: center;
+    /* padding-top: 2px; */
+    margin-top: 0.5%;
+    /*margin-right: -65px;*/
+}
+
+.banner__userIcon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
